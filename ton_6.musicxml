@@ -147,6 +147,7 @@
         <notations>
           <technical>
             <fingering relative-x="-5">2</fingering>
+            <string placement="below" default-x="6.5" default-y="-19.2">6</string>
             </technical>
           </notations>
         </note>
@@ -282,7 +283,7 @@
         <notations>
           <technical>
             <fingering relative-x="-5">2</fingering>
-         
+            <string placement="below" default-x="6.5" default-y="-19.2">5</string>
             </technical>
           </notations>
         </note>
@@ -427,7 +428,7 @@
         <notations>
           <technical>
             <fingering relative-x="-5">2</fingering>
-         
+            <string placement="below" default-x="6.5" default-y="-43.68">4</string>
             </technical>
           </notations>
         </note>
@@ -563,7 +564,7 @@
         <notations>
           <technical>
             <fingering relative-x="-5">2</fingering>
-            
+            <string placement="below" default-x="6.5" default-y="-43.78">3</string>
             </technical>
           </notations>
         </note>
