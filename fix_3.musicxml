@@ -159,7 +159,7 @@
         <beam number="1">continue</beam>
         <notations>
           <technical>
-            <fingering default-x="6.5" default-y="79.24">3</fingering>
+            <fingering default-x="6.5" default-y="79.24">2</fingering>
             </technical>
           </notations>
         </note>
@@ -228,7 +228,7 @@
         <beam number="1">continue</beam>
         <notations>
           <technical>
-            <fingering default-x="6.5" default-y="64.24">3</fingering>
+            <fingering default-x="6.5" default-y="64.24">2</fingering>
             </technical>
           </notations>
         </note>
@@ -298,7 +298,7 @@
         <beam number="1">continue</beam>
         <notations>
           <technical>
-            <fingering default-x="6.5" default-y="49.24">3</fingering>
+            <fingering default-x="6.5" default-y="49.24">2</fingering>
             </technical>
           </notations>
         </note>
@@ -369,7 +369,7 @@
         <beam number="1">continue</beam>
         <notations>
           <technical>
-            <fingering default-x="6.5" default-y="20.8">3</fingering>
+            <fingering default-x="6.5" default-y="20.8">2</fingering>
             </technical>
           </notations>
         </note>
@@ -438,7 +438,7 @@
         <beam number="1">continue</beam>
         <notations>
           <technical>
-            <fingering default-x="6.5" default-y="15.99">3</fingering>
+            <fingering default-x="6.5" default-y="15.99">2</fingering>
             </technical>
           </notations>
         </note>
