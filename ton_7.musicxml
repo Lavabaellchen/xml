@@ -79,7 +79,7 @@
       <part-abbreviation>Git.</part-abbreviation>
       <score-instrument id="P1-I1">
         <instrument-name>Klassische Gitarre</instrument-name>
-        <instrument-sound>pluck.guitar.nylon-string</instrument-sound>
+        <instrument-sound>pluck.guitar.nylon-</instrument-sound>
         </score-instrument>
       <midi-device id="P1-I1" port="1"></midi-device>
       <midi-instrument id="P1-I1">
@@ -147,7 +147,7 @@
         <notations>
           <technical>
             <fingering relative-x="-5">4</fingering>
-            <string placement="below" default-x="6.5" default-y="-73.56">1</string>
+            < placement="below" default-x="6.5" default-y="-73.56">1</>
             </technical>
           </notations>
         </note>
@@ -283,7 +283,7 @@
         <notations>
           <technical>
             <fingering relative-x="-5">4</fingering>
-            <string placement="below" default-x="6.5" default-y="-73.56">2</string>
+            < placement="below" default-x="6.5" default-y="-73.56">2</>
             </technical>
           </notations>
         </note>
@@ -428,7 +428,7 @@
         <notations>
           <technical>
             <fingering relative-x="-5">4</fingering>
-            <string placement="below" default-x="6.5" default-y="-38.8">3</string>
+            < placement="below" default-x="6.5" default-y="-38.8">3</>
             </technical>
           </notations>
         </note>
@@ -564,7 +564,7 @@
         <notations>
           <technical>
             <fingering relative-x="-5">4</fingering>
-            <string placement="below" default-x="6.5" default-y="-38.68">4</string>
+            < placement="below" default-x="6.5" default-y="-38.68">4</>
             </technical>
           </notations>
         </note>
