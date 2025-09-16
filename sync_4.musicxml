@@ -1,0 +1,1930 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="4.0">
+  <work>
+    <work-title>Unbenannte Partitur</work-title>
+    </work>
+  <identification>
+    <creator type="composer">Komponist / Arrangeur</creator>
+    <encoding>
+      <software>MuseScore 4.5.2</software>
+      <encoding-date>2025-09-16</encoding-date>
+      <supports element="accidental" type="yes"/>
+      <supports element="beam" type="yes"/>
+      <supports element="print" attribute="new-page" type="yes" value="yes"/>
+      <supports element="print" attribute="new-system" type="yes" value="yes"/>
+      <supports element="stem" type="yes"/>
+      </encoding>
+    </identification>
+  <defaults>
+    <scaling>
+      <millimeters>4.4</millimeters>
+      <tenths>40</tenths>
+      </scaling>
+    <page-layout>
+      <page-height>2699.33</page-height>
+      <page-width>1909.62</page-width>
+      <page-margins type="even">
+        <left-margin>136.364</left-margin>
+        <right-margin>136.364</right-margin>
+        <top-margin>136.364</top-margin>
+        <bottom-margin>136.364</bottom-margin>
+        </page-margins>
+      <page-margins type="odd">
+        <left-margin>136.364</left-margin>
+        <right-margin>136.364</right-margin>
+        <top-margin>136.364</top-margin>
+        <bottom-margin>136.364</bottom-margin>
+        </page-margins>
+      </page-layout>
+    <appearance>
+      <line-width type="light barline">1.8</line-width>
+      <line-width type="heavy barline">5.5</line-width>
+      <line-width type="beam">4.9</line-width>
+      <line-width type="bracket">4.5</line-width>
+      <line-width type="dashes">1</line-width>
+      <line-width type="enclosure">1</line-width>
+      <line-width type="ending">1.1</line-width>
+      <line-width type="extend">1</line-width>
+      <line-width type="leger">1.6</line-width>
+      <line-width type="pedal">1.1</line-width>
+      <line-width type="octave shift">1.1</line-width>
+      <line-width type="slur middle">2.1</line-width>
+      <line-width type="slur tip">0.5</line-width>
+      <line-width type="staff">1.1</line-width>
+      <line-width type="stem">1</line-width>
+      <line-width type="tie middle">2.1</line-width>
+      <line-width type="tie tip">0.5</line-width>
+      <line-width type="tuplet bracket">1</line-width>
+      <line-width type="wedge">1.2</line-width>
+      <note-size type="cue">70</note-size>
+      <note-size type="grace">70</note-size>
+      <note-size type="grace-cue">49</note-size>
+      </appearance>
+    <music-font font-family="Leland"/>
+    <word-font font-family="Edwin" font-size="15"/>
+    <lyric-font font-family="Edwin" font-size="10"/>
+    </defaults>
+  <credit page="1">
+    <credit-type>title</credit-type>
+    <credit-words default-x="954.809091" default-y="2562.963678" justify="center" valign="top" font-size="22">24 Permutationen</credit-words>
+    </credit>
+  <credit page="1">
+    <credit-type>composer</credit-type>
+    <credit-words default-x="1773.254587" default-y="2509.336216" justify="right" valign="bottom" font-size="10">Hubert Käppel</credit-words>
+    </credit>
+  <part-list>
+    <score-part id="P1">
+      <part-name>Klassische Gitarre</part-name>
+      <part-abbreviation>Git.</part-abbreviation>
+      <score-instrument id="P1-I1">
+        <instrument-name>Klassische Gitarre (Tabulatur)</instrument-name>
+        <instrument-sound>pluck.guitar.nylon-string</instrument-sound>
+        </score-instrument>
+      <midi-device id="P1-I1" port="1"></midi-device>
+      <midi-instrument id="P1-I1">
+        <midi-channel>1</midi-channel>
+        <midi-program>25</midi-program>
+        <volume>78.7402</volume>
+        <pan>0</pan>
+        </midi-instrument>
+      </score-part>
+    </part-list>
+  <part id="P1">
+    <measure number="1" width="191.57">
+      <print>
+        <system-layout>
+          <system-margins>
+            <left-margin>0</left-margin>
+            <right-margin>0</right-margin>
+            </system-margins>
+          <top-system-distance>189.31</top-system-distance>
+          </system-layout>
+        </print>
+      <attributes>
+        <divisions>4</divisions>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        <time>
+          <beats>2</beats>
+          <beat-type>8</beat-type>
+          </time>
+        <clef>
+          <sign>TAB</sign>
+          <line>5</line>
+          </clef>
+        <staff-details>
+          <staff-lines>6</staff-lines>
+          <staff-tuning line="1">
+            <tuning-step>E</tuning-step>
+            <tuning-octave>2</tuning-octave>
+            </staff-tuning>
+          <staff-tuning line="2">
+            <tuning-step>A</tuning-step>
+            <tuning-octave>2</tuning-octave>
+            </staff-tuning>
+          <staff-tuning line="3">
+            <tuning-step>D</tuning-step>
+            <tuning-octave>3</tuning-octave>
+            </staff-tuning>
+          <staff-tuning line="4">
+            <tuning-step>G</tuning-step>
+            <tuning-octave>3</tuning-octave>
+            </staff-tuning>
+          <staff-tuning line="5">
+            <tuning-step>B</tuning-step>
+            <tuning-octave>3</tuning-octave>
+            </staff-tuning>
+          <staff-tuning line="6">
+            <tuning-step>E</tuning-step>
+            <tuning-octave>4</tuning-octave>
+            </staff-tuning>
+          </staff-details>
+        </attributes>
+      <direction placement="above">
+        <direction-type>
+          <words relative-y="10" font-weight="bold">1</words>
+          </direction-type>
+        </direction>
+      <direction placement="below" system="only-top">
+        <direction-type>
+          <words default-y="-75" relative-x="-16.65" relative-y="-57.57" font-size="10">auf 4. 3. 2. und 1. Saite / von der 1. Lage bis zur IX. Lage und zurück
+</words>
+          <words>
+</words>
+          <words>Wechselschlag:  m-i, i-m, m-a, a-m, a-i, i-a, p-i, i-p, m-p, p-m 
+</words>
+          <words>
+</words>
+          <words>Dreieranschlagsmuster a-m-i, i-m-a, p-m-i, p-i-m
+</words>
+          <words>
+</words>
+          <words>Viereranschlag  a-m-i-p, m-i-p-a, i-p-a-m, p-a-m-i, p-i-m-a, i-m-a-p, m-a-p-i, a-p-i-m</words>
+          </direction-type>
+        </direction>
+      <note default-x="72.68" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string font-size="12">4</string>
+            <string font-size="12">4</string>
+            <string font-size="12">4</string>
+            <string font-size="12">4</string>
+            <string>4</string>
+            <fret>1</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="102.58" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>2</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="132.47" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>3</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="162.37" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>4</fret>
+            </technical>
+          </notations>
+        </note>
+      </measure>
+    <measure number="2" width="131.39">
+      <direction placement="above">
+        <direction-type>
+          <words relative-y="10" font-weight="bold">2</words>
+          </direction-type>
+        </direction>
+      <note default-x="12.5" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>2</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="42.4" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>1</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="72.29" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>3</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="102.19" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>4</fret>
+            </technical>
+          </notations>
+        </note>
+      </measure>
+    <measure number="3" width="131.39">
+      <direction placement="above">
+        <direction-type>
+          <words relative-y="10" font-weight="bold">3</words>
+          </direction-type>
+        </direction>
+      <note default-x="12.5" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>3</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="42.4" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>1</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="72.29" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>2</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="102.19" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>4</fret>
+            </technical>
+          </notations>
+        </note>
+      </measure>
+    <measure number="4" width="131.39">
+      <direction placement="above">
+        <direction-type>
+          <words relative-y="10" font-weight="bold">4</words>
+          </direction-type>
+        </direction>
+      <note default-x="12.5" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>4</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="42.4" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>1</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="72.29" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>2</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="102.19" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>3</fret>
+            </technical>
+          </notations>
+        </note>
+      </measure>
+    <measure number="5" width="131.39">
+      <direction placement="above">
+        <direction-type>
+          <words relative-y="10" font-weight="bold">5</words>
+          </direction-type>
+        </direction>
+      <note default-x="12.5" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>1</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="42.4" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>2</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="72.29" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>4</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="102.19" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>3</fret>
+            </technical>
+          </notations>
+        </note>
+      </measure>
+    <measure number="6" width="131.39">
+      <direction placement="above">
+        <direction-type>
+          <words relative-y="10" font-weight="bold">6</words>
+          </direction-type>
+        </direction>
+      <note default-x="12.5" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>2</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="42.4" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>1</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="72.29" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>4</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="102.19" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>3</fret>
+            </technical>
+          </notations>
+        </note>
+      </measure>
+    <measure number="7" width="131.39">
+      <direction placement="above">
+        <direction-type>
+          <words relative-y="10" font-weight="bold">7</words>
+          </direction-type>
+        </direction>
+      <note default-x="12.5" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>3</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="42.4" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>1</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="72.29" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>4</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="102.19" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>2</fret>
+            </technical>
+          </notations>
+        </note>
+      </measure>
+    <measure number="8" width="131.39">
+      <direction placement="above">
+        <direction-type>
+          <words relative-y="10" font-weight="bold">8</words>
+          </direction-type>
+        </direction>
+      <note default-x="12.5" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>4</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="42.4" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>1</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="72.29" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>3</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="102.19" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>2</fret>
+            </technical>
+          </notations>
+        </note>
+      </measure>
+    <measure number="9" width="131.39">
+      <direction placement="above">
+        <direction-type>
+          <words relative-y="10" font-weight="bold">9 </words>
+          </direction-type>
+        </direction>
+      <note default-x="12.5" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>1</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="42.4" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>3</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="72.29" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>2</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="102.19" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>4</fret>
+            </technical>
+          </notations>
+        </note>
+      </measure>
+    <measure number="10" width="131.39">
+      <direction placement="above">
+        <direction-type>
+          <words relative-y="10" font-weight="bold">10</words>
+          </direction-type>
+        </direction>
+      <note default-x="12.5" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>2</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="42.4" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>3</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="72.29" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>1</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="102.19" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>4</fret>
+            </technical>
+          </notations>
+        </note>
+      </measure>
+    <measure number="11" width="131.39">
+      <direction placement="above">
+        <direction-type>
+          <words relative-y="10" font-weight="bold">11</words>
+          </direction-type>
+        </direction>
+      <note default-x="12.5" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>3</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="42.4" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>2</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="72.29" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>1</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="102.19" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>4</fret>
+            </technical>
+          </notations>
+        </note>
+      </measure>
+    <measure number="12" width="131.39">
+      <direction placement="above">
+        <direction-type>
+          <words relative-y="10" font-weight="bold">12</words>
+          </direction-type>
+        </direction>
+      <note default-x="12.5" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>4</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="42.4" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>2</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="72.29" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>3</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="102.19" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>1</fret>
+            </technical>
+          </notations>
+        </note>
+      </measure>
+    <measure number="13" width="137.93">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0</left-margin>
+            <right-margin>0</right-margin>
+            </system-margins>
+          <system-distance>320</system-distance>
+          </system-layout>
+        </print>
+      <direction placement="above">
+        <direction-type>
+          <words relative-y="10" font-weight="bold">13</words>
+          </direction-type>
+        </direction>
+      <note default-x="15" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>1</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="45.9" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>3</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="76.81" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>4</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="107.72" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>2</fret>
+            </technical>
+          </notations>
+        </note>
+      </measure>
+    <measure number="14" width="135.43">
+      <direction placement="above">
+        <direction-type>
+          <words relative-y="10" font-weight="bold">14</words>
+          </direction-type>
+        </direction>
+      <note default-x="12.5" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>2</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="43.41" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>3</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="74.31" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>4</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="105.22" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>1</fret>
+            </technical>
+          </notations>
+        </note>
+      </measure>
+    <measure number="15" width="135.43">
+      <direction placement="above">
+        <direction-type>
+          <words relative-y="10" font-weight="bold">15</words>
+          </direction-type>
+        </direction>
+      <note default-x="12.5" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>3</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="43.41" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>2</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="74.31" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>4</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="105.22" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>1</fret>
+            </technical>
+          </notations>
+        </note>
+      </measure>
+    <measure number="16" width="135.43">
+      <direction placement="above">
+        <direction-type>
+          <words relative-y="10" font-weight="bold">16</words>
+          </direction-type>
+        </direction>
+      <note default-x="12.5" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>4</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="43.41" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>2</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="74.31" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>1</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="105.22" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>3</fret>
+            </technical>
+          </notations>
+        </note>
+      </measure>
+    <measure number="17" width="135.43">
+      <direction placement="above">
+        <direction-type>
+          <words relative-y="10" font-weight="bold">17</words>
+          </direction-type>
+        </direction>
+      <note default-x="12.5" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>1</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="43.41" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>4</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="74.31" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>2</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="105.22" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>3</fret>
+            </technical>
+          </notations>
+        </note>
+      </measure>
+    <measure number="18" width="135.43">
+      <direction placement="above">
+        <direction-type>
+          <words relative-y="10" font-weight="bold">18</words>
+          </direction-type>
+        </direction>
+      <note default-x="12.5" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>2</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="43.41" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>4</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="74.31" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>1</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="105.22" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>3</fret>
+            </technical>
+          </notations>
+        </note>
+      </measure>
+    <measure number="19" width="135.43">
+      <direction placement="above">
+        <direction-type>
+          <words relative-y="10" font-weight="bold">19</words>
+          </direction-type>
+        </direction>
+      <note default-x="12.5" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>3</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="43.41" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>4</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="74.31" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>2</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="105.22" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>1</fret>
+            </technical>
+          </notations>
+        </note>
+      </measure>
+    <measure number="20" width="135.43">
+      <direction placement="above">
+        <direction-type>
+          <words relative-y="10" font-weight="bold">20</words>
+          </direction-type>
+        </direction>
+      <note default-x="12.5" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>4</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="43.41" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>3</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="74.31" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>1</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="105.22" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>2</fret>
+            </technical>
+          </notations>
+        </note>
+      </measure>
+    <measure number="21" width="135.43">
+      <direction placement="above">
+        <direction-type>
+          <words relative-y="10" font-weight="bold">21</words>
+          </direction-type>
+        </direction>
+      <note default-x="12.5" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>1</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="43.41" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>4</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="74.31" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>3</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="105.22" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>2</fret>
+            </technical>
+          </notations>
+        </note>
+      </measure>
+    <measure number="22" width="135.43">
+      <direction placement="above">
+        <direction-type>
+          <words relative-y="10" font-weight="bold">22</words>
+          </direction-type>
+        </direction>
+      <note default-x="12.5" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>2</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="43.41" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>4</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="74.31" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>3</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="105.22" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>1</fret>
+            </technical>
+          </notations>
+        </note>
+      </measure>
+    <measure number="23" width="135.43">
+      <direction placement="above">
+        <direction-type>
+          <words relative-y="10" font-weight="bold">23</words>
+          </direction-type>
+        </direction>
+      <note default-x="12.5" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>3</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="43.41" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>4</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="74.31" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>1</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="105.22" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>2</fret>
+            </technical>
+          </notations>
+        </note>
+      </measure>
+    <measure number="24" width="144.63">
+      <direction placement="above">
+        <direction-type>
+          <words relative-y="10" font-weight="bold">24</words>
+          </direction-type>
+        </direction>
+      <note default-x="12.5" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>4</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="43.41" default-y="-45">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>3</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="74.31" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>2</fret>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="105.22" default-y="-45">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>none</stem>
+        <notations>
+          <technical>
+            <string>4</string>
+            <fret>1</fret>
+            </technical>
+          </notations>
+        </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+        </barline>
+      </measure>
+    </part>
+  </score-partwise>
